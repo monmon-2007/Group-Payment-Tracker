@@ -4,7 +4,7 @@
 <p>it's a Desktop appliction Writen In Java</p>
 
 
-<p> there is another version of the code writen in c to make it easier to run on windows and Linux systems by only clicking on the excutable file</p>
+<p> there is another version of the code writen in c++ to make it easier to run on windows and Linux systems by only clicking on the excutable file</p>
 
 <h1>TO DO</h1>
 The aplication currently runs on the command line window.
